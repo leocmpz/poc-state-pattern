@@ -1,0 +1,14 @@
+C:\Users\leonardo.campos_warr\Desktop\Workspace\poc-state-pattern\PocStatePattern\bin\Debug\net8.0\PocStatePattern.exe
+C:\Users\leonardo.campos_warr\Desktop\Workspace\poc-state-pattern\PocStatePattern\bin\Debug\net8.0\PocStatePattern.deps.json
+C:\Users\leonardo.campos_warr\Desktop\Workspace\poc-state-pattern\PocStatePattern\bin\Debug\net8.0\PocStatePattern.runtimeconfig.json
+C:\Users\leonardo.campos_warr\Desktop\Workspace\poc-state-pattern\PocStatePattern\bin\Debug\net8.0\PocStatePattern.dll
+C:\Users\leonardo.campos_warr\Desktop\Workspace\poc-state-pattern\PocStatePattern\bin\Debug\net8.0\PocStatePattern.pdb
+C:\Users\leonardo.campos_warr\Desktop\Workspace\poc-state-pattern\PocStatePattern\obj\Debug\net8.0\PocStatePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.campos_warr\Desktop\Workspace\poc-state-pattern\PocStatePattern\obj\Debug\net8.0\PocStatePattern.AssemblyInfoInputs.cache
+C:\Users\leonardo.campos_warr\Desktop\Workspace\poc-state-pattern\PocStatePattern\obj\Debug\net8.0\PocStatePattern.AssemblyInfo.cs
+C:\Users\leonardo.campos_warr\Desktop\Workspace\poc-state-pattern\PocStatePattern\obj\Debug\net8.0\PocStatePattern.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.campos_warr\Desktop\Workspace\poc-state-pattern\PocStatePattern\obj\Debug\net8.0\PocStatePattern.dll
+C:\Users\leonardo.campos_warr\Desktop\Workspace\poc-state-pattern\PocStatePattern\obj\Debug\net8.0\refint\PocStatePattern.dll
+C:\Users\leonardo.campos_warr\Desktop\Workspace\poc-state-pattern\PocStatePattern\obj\Debug\net8.0\PocStatePattern.pdb
+C:\Users\leonardo.campos_warr\Desktop\Workspace\poc-state-pattern\PocStatePattern\obj\Debug\net8.0\PocStatePattern.genruntimeconfig.cache
+C:\Users\leonardo.campos_warr\Desktop\Workspace\poc-state-pattern\PocStatePattern\obj\Debug\net8.0\ref\PocStatePattern.dll
